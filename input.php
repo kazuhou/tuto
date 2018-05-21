@@ -9,7 +9,7 @@
 <body>
   <forom methot="GET"action="output.php">
   <input type='text'name='name'>
-  <?php//<input type='text'name='welcom'>?>
+  <input type='text'name='welcom'>
   <input type='submit'value='send'>
   </form>
 </body>
